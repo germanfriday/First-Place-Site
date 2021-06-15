@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+<image thumb="flash/ceremony/thumbs/1.jpg" src="flash/ceremony/1.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/ceremony/thumbs/2.jpg" src="flash/ceremony/2.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/ceremony/thumbs/3.jpg" src="flash/ceremony/3.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/ceremony/thumbs/4.jpg" src="flash/ceremony/4.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/ceremony/thumbs/5.jpg" src="flash/ceremony/5.jpg" caption ="" href="no" transition = "1" />
+</images>
+
+<settings>
+	<slideShow width = "800" height = "531" background = "#000" border = "1" borderColor = "#000" />
+	<autoPlay playOption = "0" delay = "3.5" showButton = "0" />
+	<caption capOption = "0" />
+	<buttons styleOption = "0" />
+</settings>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+<image thumb="flash/brides/thumbs/1.jpg" src="flash/brides/1.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/2.jpg" src="flash/brides/2.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/3.jpg" src="flash/brides/3.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/4.jpg" src="flash/brides/4.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/5.jpg" src="flash/brides/5.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/6.jpg" src="flash/brides/6.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/7.jpg" src="flash/brides/7.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/8.jpg" src="flash/brides/8.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/9.jpg" src="flash/brides/9.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/brides/thumbs/10.jpg" src="flash/brides/10.jpg" caption ="" href="no" transition = "1" />
+</images>
+
+<settings>
+	<slideShow width = "800" height = "531" background = "#000" border = "1" borderColor = "#000" />
+	<autoPlay playOption = "0" delay = "3.5" showButton = "0" />
+	<caption capOption = "0" />
+	<buttons styleOption = "0" />
+</settings>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+<image thumb="flash/family/thumbs/1.jpg" src="flash/family/1.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/2.jpg" src="flash/family/2.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/3.jpg" src="flash/family/3.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/4.jpg" src="flash/family/4.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/5.jpg" src="flash/family/5.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/6.jpg" src="flash/family/6.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/7.jpg" src="flash/family/7.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/8.jpg" src="flash/family/8.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/9.jpg" src="flash/family/9.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/10.jpg" src="flash/family/10.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/11.jpg" src="flash/family/11.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/12.jpg" src="flash/family/12.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/13.jpg" src="flash/family/13.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/14.jpg" src="flash/family/14.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/15.jpg" src="flash/family/15.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/16.jpg" src="flash/family/16.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/17.jpg" src="flash/family/17.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/18.jpg" src="flash/family/18.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/19.jpg" src="flash/family/19.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/20.jpg" src="flash/family/20.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/21.jpg" src="flash/family/21.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/22.jpg" src="flash/family/22.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/23.jpg" src="flash/family/23.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/24.jpg" src="flash/family/24.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/25.jpg" src="flash/family/25.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/26.jpg" src="flash/family/26.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/27.jpg" src="flash/family/27.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/family/thumbs/28.jpg" src="flash/family/28.jpg" caption ="" href="no" transition = "1" />
+</images>
+
+<settings>
+	<slideShow width = "800" height = "531" background = "#000" border = "1" borderColor = "#000" />
+	<autoPlay playOption = "0" delay = "3.5" showButton = "0" />
+	<caption capOption = "0" />
+	<buttons styleOption = "0" />
+</settings>

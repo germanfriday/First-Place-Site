@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+<image thumb="flash/seniors/thumbs/1.jpg" src="flash/seniors/1.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/2.jpg" src="flash/seniors/2.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/3.jpg" src="flash/seniors/3.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/4.jpg" src="flash/seniors/4.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/5.jpg" src="flash/seniors/5.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/6.jpg" src="flash/seniors/6.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/7.jpg" src="flash/seniors/7.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/8.jpg" src="flash/seniors/8.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/9.jpg" src="flash/seniors/9.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/10.jpg" src="flash/seniors/10.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/11.jpg" src="flash/seniors/11.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/12.jpg" src="flash/seniors/12.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/13.jpg" src="flash/seniors/13.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/14.jpg" src="flash/seniors/14.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/15.jpg" src="flash/seniors/15.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/16.jpg" src="flash/seniors/16.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/seniors/thumbs/17.jpg" src="flash/seniors/17.jpg" caption ="" href="no" transition = "1" />
+
+</images>
+
+<settings>
+	<slideShow width = "800" height = "531" background = "#000" border = "1" borderColor = "#000" />
+	<autoPlay playOption = "0" delay = "3.5" showButton = "0" />
+	<caption capOption = "0" />
+	<buttons styleOption = "0" />
+</settings>

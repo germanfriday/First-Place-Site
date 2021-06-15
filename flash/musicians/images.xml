@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+<image thumb="flash/musicians/thumbs/1.jpg" src="flash/musicians/1.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/2.jpg" src="flash/musicians/2.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/3.jpg" src="flash/musicians/3.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/4.jpg" src="flash/musicians/4.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/5.jpg" src="flash/musicians/5.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/6.jpg" src="flash/musicians/6.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/7.jpg" src="flash/musicians/7.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/8.jpg" src="flash/musicians/8.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/9.jpg" src="flash/musicians/9.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/10.jpg" src="flash/musicians/10.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/11.jpg" src="flash/musicians/11.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/12.jpg" src="flash/musicians/12.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/musicians/thumbs/13.jpg" src="flash/musicians/13.jpg" caption ="" href="no" transition = "1" />
+</images>
+
+<settings>
+	<slideShow width = "800" height = "531" background = "#000" border = "1" borderColor = "#000" />
+	<autoPlay playOption = "0" delay = "3.5" showButton = "0" />
+	<caption capOption = "0" />
+	<buttons styleOption = "0" />
+</settings>

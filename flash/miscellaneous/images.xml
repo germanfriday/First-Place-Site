@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+<image thumb="flash/miscellaneous/thumbs/1.jpg" src="flash/miscellaneous/1.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/2.jpg" src="flash/miscellaneous/2.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/3.jpg" src="flash/miscellaneous/3.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/4.jpg" src="flash/miscellaneous/4.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/5.jpg" src="flash/miscellaneous/5.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/6.jpg" src="flash/miscellaneous/6.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/7.jpg" src="flash/miscellaneous/7.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/8.jpg" src="flash/miscellaneous/8.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/9.jpg" src="flash/miscellaneous/9.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/10.jpg" src="flash/miscellaneous/10.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/11.jpg" src="flash/miscellaneous/11.jpg" caption ="" href="no" transition = "1" />
+<image thumb="flash/miscellaneous/thumbs/12.jpg" src="flash/miscellaneous/12.jpg" caption ="" href="no" transition = "1" />
+</images>
+
+<settings>
+	<slideShow width = "800" height = "531" background = "#000" border = "1" borderColor = "#000" />
+	<autoPlay playOption = "0" delay = "3.5" showButton = "0" />
+	<caption capOption = "0" />
+	<buttons styleOption = "0" />
+</settings>
